@@ -207,9 +207,8 @@ export default {
             whatCanIDoWithWebDollarsAnswer: `WebDollar kann wie jede andere Währung verwendet werden: für die Bezahlung von Produkten im Internet, für den Handel mit Waren und für den Umtausch in andere Währungen. Darüber hinaus kann WebDollar für grenzüberschreitende Zahlungen ohne Umtauschgebühren verwendet werden. Die Gemeinschaft rund um das Open-Source-Projekt WebDollar baut das Ökosystem kontinuierlich aus.`,
             howCanIGetWebDollars: `Wie kann ich WebDollars bekommen?`,
             howCanIGetWebDollarsAnswer: `1. Sie können sie direkt in Ihrem Browser einsetzen (mit mindestens 100 WEBD).<br/>
-                2. Sie können mit <a href="https://t.me/webdollar_tip_bot" target="_blank">Telegram Tip Bot</a> (mit mindestens 1 WEBD) staken.<br/>
-                3. Sie können an den Börsen kaufen.<br/>
-                4. Sie können Belohnungen von Community-Mitgliedern erhalten, indem Sie einen Beitrag leisten (treten Sie der <a href="https://t.me/WebDollar" target="_blank">Telegram WebDollar-Gruppe</a> bei).`,
+                2. Sie können an den Börsen kaufen.<br/>
+                3. Sie können Belohnungen von Community-Mitgliedern erhalten, indem Sie einen Beitrag leisten (treten Sie der <a href="https://t.me/WebDollar" target="_blank">Telegram WebDollar-Gruppe</a> bei).`,
             howMuchWebdEarnIn24HoursMining: `Wie viel WebDollars (WEBD) kann ich innerhalb von 24 Stunden verdienen, wenn ich einen Staking mache?`,
             howMuchWebdEarnIn24HoursMiningAnswer: `Die Menge an WEBDs, die Sie in 24 Stunden schürfen können, basiert ausschließlich auf Ihrem Staking an geschürften Münzen und ist direkt proportional zum Staking des gesamten Netzwerks.`,
             howAreWalletsSecured: `Wie sind die Geldbörsen gesichert?`,

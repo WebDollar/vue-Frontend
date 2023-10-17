@@ -209,9 +209,8 @@ export default {
             whatCanIDoWithWebDollarsAnswer: `WebDollar est conçu pour être utilisé comme vous le feriez avec n'importe quelle autre devise : paiement de produits en ligne, échange de biens, échange contre d'autres devises. En outre, WebDollar peut être utilisé pour les paiements transfrontaliers sans frais de change. La communauté autour du projet open source, WebDollar, ne cesse de développer l'écosystème.`,
             howCanIGetWebDollars: `Comment puis-je obtenir des WebDollars ?`,
             howCanIGetWebDollarsAnswer: `1. Vous pouvez les mettre en jeu (stake) directement dans votre navigateur (avec au moins 100 WEBD).<br/>
-                2. Vous pouvez les mettre en jeu en utilisant <a href="https://t.me/webdollar_tip_bot" target="_blank">Telegram Tip Bot</a> (avec au moins 1 WEBD).<br/>
-                3. Vous pouvez acheter sur les échanges.<br/>
-                4. Vous pouvez obtenir des récompenses des membres de la communauté en contribuant (Rejoignez le groupe <a href="https://t.me/WebDollar" target="_blank">Telegram WebDollar</a>).`,
+                2. Vous pouvez acheter sur les échanges.<br/>
+                3. Vous pouvez obtenir des récompenses des membres de la communauté en contribuant (Rejoignez le groupe <a href="https://t.me/WebDollar" target="_blank">Telegram WebDollar</a>).`,
             howMuchWebdEarnIn24HoursMining: `Combien de WebDollars (WEBD) puis-je gagner en 24 heures de staking ?`,
             howMuchWebdEarnIn24HoursMiningAnswer: `La quantité de WEBD que vous pouvez miner en 24 heures est uniquement basée sur votre mise en pièces minées et elle est directement proportionnelle à la mise de l'ensemble du réseau.`,
             howAreWalletsSecured: `Comment les portefeuilles sont-ils sécurisés ?`,

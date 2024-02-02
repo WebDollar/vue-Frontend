@@ -324,7 +324,7 @@ export default {
         footer:{
             followUs: `Seguiteci`,
             poweredBy: `Alimentato da`,
-            footer: `Copyright © 2023 WebDollar.io - Tutti i diritti riservati.`,
+            footer: `Copyright © 2024 WebDollar.io - Tutti i diritti riservati.`,
         },
 
     }

@@ -323,7 +323,7 @@ export default {
         footer:{
             followUs: `Urmăriți-ne`,
             poweredBy: `Cu sprijinul`,
-            footer: `Copyright © 2023 WebDollar.io - Toate drepturile rezervate.`,
+            footer: `Copyright © 2024 WebDollar.io - Toate drepturile rezervate.`,
         },
 
     }

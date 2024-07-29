@@ -13,20 +13,16 @@
                         <h4>{{ $i18n.t('heroes.getStarted.getAndBackupWallet') }}</h4>
                         <p>{{ $i18n.t('heroes.getStarted.walletAutomaticallyCreated') }}</p>
                         <p>{{ $i18n.t('heroes.getStarted.exportInSafePlace') }}</p>
-                        <p v-html="$i18n.t('heroes.getStarted.useTGTipBotAndConnectWallet')" />
                     </div>
                     <div>
                         <img class="lazy" data-src="/public/assets/images/logo-coin.png" :alt="$i18n.t('heroes.getStarted.getWebdollars')" :title="$i18n.t('heroes.getStarted.getWebdollars')">
                         <h4>{{ $i18n.t('heroes.getStarted.getWebdollars') }}</h4>
                         <p v-html="$i18n.t('heroes.getStarted.buyFromExchanges')" />
-                        <p v-html="$i18n.t('heroes.getStarted.getTipsAndRewards')" />
-                        <p v-html="$i18n.t('heroes.getStarted.playGames')" />
                     </div>
                     <div>
                         <img class="lazy" data-src="/public/assets/images/WebDollar-ming.png" :alt="$i18n.t('heroes.getStarted.stakeWebdollar')" :title="$i18n.t('heroes.getStarted.stakeWebdollar')">
                         <h4>{{ $i18n.t('heroes.getStarted.stakeWebdollar') }}</h4>
                         <p>{{ $i18n.t('heroes.getStarted.stakeWebdollarFromBrowser') }}</p>
-                        <p v-html="$i18n.t('heroes.getStarted.stakeWebdollarUsingTGTipBot')" />
                     </div>
                 </div>
             </div>

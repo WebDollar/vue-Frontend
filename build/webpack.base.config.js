@@ -6,6 +6,7 @@ const TerserPlugin                = require("terser-webpack-plugin")
 var BundleAnalyzerPlugin          = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 const isProd = process.env.NODE_ENV === 'production'
+console.log("isProd", isProd)
 //const isAnalyze = process.argv.includes('--analyze') || process.argv.includes('--analyse');
 const isAnalyze = false;
 
@@ -76,8 +77,11 @@ module.exports = {
             }),
             new MiniCssExtractPlugin({
               filename: 'common.[chunkhash].css'
-            })
-          ]
+            }),
+             new webpack.DefinePlugin({
+               __VUE_PROD_DEVTOOLS__: JSON.stringify(false),
+             }),
+        ]
         : [
             ...isAnalyze ? [new BundleAnalyzerPlugin()] : [],
             new FriendlyErrorsWebpackPlugin()

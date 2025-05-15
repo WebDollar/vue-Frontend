@@ -15,6 +15,8 @@ const CssMinimizerPlugin      = require("css-minimizer-webpack-plugin");
 const { CleanWebpackPlugin }  = require('clean-webpack-plugin');
 const TerserPlugin            = require('terser-webpack-plugin');
 
+console.log("isProd", isProd)
+
 const webpackConfig = {
     mode: isProd ? 'production' : 'development',
     entry: {
@@ -151,6 +153,7 @@ if (isProd)
             }
         ]
     }));
+
 }
 
 module.exports = webpackConfig;

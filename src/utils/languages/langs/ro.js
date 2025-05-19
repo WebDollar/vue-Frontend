@@ -207,9 +207,8 @@ export default {
             whatCanIDoWithWebDollarsAnswer: `WebDollar este menit să fie folosit așa cum ați folosi aproape orice altă monedă: plata produselor online, schimbul de bunuri, schimbul de alte valute. În plus, WebDollar poate fi utilizat pentru plăți transfrontaliere fără comisioane de schimb valutar. Comunitatea din jurul proiectului cu sursă deschisă, WebDollar, construiește continuu ecosistemul.`,
             howCanIGetWebDollars: `Cum pot obține WEBD?`,
             howCanIGetWebDollarsAnswer: `1. Puteți face stake direct în browser (cu cel puțin 100 WEBD).<br/>
-                2. Puteți face stake folosind <a href="https://t.me/webdollar_tip_bot" target="_blank">Telegram Tip Bot</a> (cu cel puțin 1 WEBD).<br/>
-                3. Puteți cumpăra de pe exchange-uri.<br/>
-                4. Puteți primi recompense de la membrii comunității dacă contribuiți cu ceva (Alăturați-vă <a href="https://t.me/WebDollar" rel="noopener" target="_blank">grupului Telegram WebDollar</a>).`,
+                2. Puteți cumpăra de pe exchange-uri.<br/>
+                3. Puteți primi recompense de la membrii comunității dacă contribuiți cu ceva (Alăturați-vă <a href="https://t.me/WebDollar" rel="noopener" target="_blank">grupului Telegram WebDollar</a>).`,
             howMuchWebdEarnIn24HoursMining: `Câți WebDollars (WEBD) pot câștiga în 24 de ore de miză (stake)?`,
             howMuchWebdEarnIn24HoursMiningAnswer: `Cantitatea de WEBD pe care o puteți mina în 24 de ore se bazează exclusiv pe miza de monede minate și este direct proporțională cu miza întregii rețele.`,
             howAreWalletsSecured: `Cum sunt securizate portofelele?`,
@@ -324,7 +323,7 @@ export default {
         footer:{
             followUs: `Urmăriți-ne`,
             poweredBy: `Cu sprijinul`,
-            footer: `Copyright © 2023 WebDollar.io - Toate drepturile rezervate.`,
+            footer: `Copyright © 2024 WebDollar.io - Toate drepturile rezervate.`,
         },
 
     }
